@@ -1,0 +1,29 @@
+.navbar{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 17px;
+    box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.75);
+    margin-bottom: 10px;
+}
+
+.navbar-brand{
+    font-variant: small-caps;
+    font-size: 30px;
+    background:url(img/animated-text-fill.png)repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: titulo 30s linear infinite;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    font-weight: bold;
+    line-height: normal;
+}
+@keyframes titulo {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}

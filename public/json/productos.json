@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "pc",
+        "nombre": "PC Gaming AMD Ryzen 5",
+        "modelo": "Skiller",
+        "precio": 150000,
+        "stock": 20,
+        "img": "../img/pc1.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "pc",
+        "nombre": "PC Gaming AMD Ryzen 5",
+        "modelo": "Super Leet",
+        "precio": 170000,
+        "stock": 25,
+        "img": "../img/pc2.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "pc",
+        "nombre": "PC Gaming Intel i5",
+        "modelo": "Comet II",
+        "precio": 230000,
+        "stock": 30,
+        "img": "../img/pc3.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "pc",
+        "nombre": "PC Gaming Intel i5",
+        "modelo": "Revenge",
+        "precio": 190000,
+        "stock": 20,
+        "img": "../img/pc4.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "pc",
+        "nombre": "PC Gaming AMD Ryzen 7",
+        "modelo": "Tempest",
+        "precio": 240000,
+        "stock": 25,
+        "img": "../img/pc5.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "monitores",
+        "nombre": "Monitor 24''",
+        "modelo": "Samsung S60A",
+        "precio": 30000,
+        "stock": 30,
+        "img": "../img/monitor1.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "monitores",
+        "nombre": "Monitor 24''",
+        "modelo": "Asus TUF Gaming VG24VQR",
+        "precio": 32000,
+        "stock": 25,
+        "img": "../img/monitor2.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "monitores",
+        "nombre": "Monitor 27''",
+        "modelo": "MSI Optix G27C4",
+        "precio": 35000,
+        "stock": 25,
+        "img": "../img/monitor3.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "monitores",
+        "nombre": "Monitor 27''",
+        "modelo": "Gigabyte G27F 2",
+        "precio": 39000,
+        "stock": 25,
+        "img": "../img/monitor4.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "mouse",
+        "nombre": "PC-Mouse",
+        "modelo": "Sharkoon Skiller SGM2 Gaming",
+        "precio": 9000,
+        "stock": 10,
+        "img": "../img/mouse1.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": "mouse",
+        "nombre": "PC-Mouse",
+        "modelo": "MSI Clutch GM30",
+        "precio": 10000,
+        "stock": 20,
+        "img": "../img/mouse2.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "mouse",
+        "nombre": "PC-Mouse",
+        "modelo": "Corsair Ironclaw RGB",
+        "precio": 15000,
+        "stock": 15,
+        "img": "../img/mouse3.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": "mouse",
+        "nombre": "PC-Mouse",
+        "modelo": "Corsair Dark Core RGB Pro, USB/Bluetooth",
+        "precio": 20000,
+        "stock": 20,
+        "img": "../img/mouse4.jpg"
+    },
+    {
+        "id": 14,
+        "idCategoria": "accesorios",
+        "nombre": "Auriculares",
+        "modelo": "Corsair VOID RGB ELITE",
+        "precio": 25000,
+        "stock": 10,
+        "img": "../img/auris.jpg"
+    },
+    {
+        "id": 15,
+        "idCategoria": "accesorios",
+        "nombre": "Stream Deck",
+        "modelo": "MK.2",
+        "precio": 50000,
+        "stock": 15,
+        "img": "../img/streamdeck.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": "accesorios",
+        "nombre": "Microfono",
+        "modelo": "NZXT Capsule",
+        "precio": 30000,
+        "stock": 30,
+        "img": "../img/micro.jpg"
+    },
+    {
+        "id": 17,
+        "idCategoria": "accesorios",
+        "nombre": "Pad",
+        "modelo": "Corsair MM350 PRO",
+        "precio": 15000,
+        "stock": 15,
+        "img": "../img/pad1.jpg"
+    },
+    {
+        "id": 18,
+        "idCategoria": "accesorios",
+        "nombre": "Pad",
+        "modelo": "ASUS ROG Sheath",
+        "precio": 10000,
+        "stock": 20,
+        "img": "../img/pad2.jpg"
+    }
+
+]
