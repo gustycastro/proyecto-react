@@ -128,20 +128,20 @@
     {
         "id": 15,
         "idCategoria": "accesorios",
-        "nombre": "Stream Deck",
-        "modelo": "MK.2",
-        "precio": 50000,
-        "stock": 15,
-        "img": "../img/streamdeck.jpg"
-    },
-    {
-        "id": 16,
-        "idCategoria": "accesorios",
         "nombre": "Microfono",
         "modelo": "NZXT Capsule",
         "precio": 30000,
         "stock": 30,
         "img": "../img/micro.jpg"
+    },
+    {
+        "id": 16,
+        "idCategoria": "accesorios",
+        "nombre": "Stream Deck",
+        "modelo": "MK.2",
+        "precio": 50000,
+        "stock": 15,
+        "img": "../img/streamdeck.jpg"
     },
     {
         "id": 17,
