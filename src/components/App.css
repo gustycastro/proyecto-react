@@ -9,3 +9,12 @@ body {
 .btn{
     margin: 5px;
 }
+
+.darkMode {
+    background-color: #192229;
+    color: gainsboro;
+}
+
+
+
+

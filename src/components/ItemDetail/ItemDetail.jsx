@@ -1,10 +1,13 @@
 import { ItemCount } from "../ItemCount/ItemCount"
+import { useCarritoContext } from "../../context/CartContext"
 export const ItemDetail = ({ item }) => {
+    const { addItem } = useCarritoContext()
     const onAdd = (contador) => { 
+        addItem(item, contador)
     }
 
     return (
-        <div className="row g-0">
+        <div className="row g-0 ">
             <div className="col-md-4">
                 <img src={item.img} alt={`Imagen de ${item.nombre}`} className="img-fluid rounded-start" />
             </div>
