@@ -18,6 +18,6 @@ npm start
 
 ## Creado con:
 
-[React] (https://es.react.dev/)
-[Toastify] (https://fkhadra.github.io/react-toastify/introduction)
-[Firebase] (https://firebase.google.com)
+* [React] (https://es.react.dev/)
+* [Toastify] (https://fkhadra.github.io/react-toastify/introduction)
+* [Firebase] (https://firebase.google.com)
